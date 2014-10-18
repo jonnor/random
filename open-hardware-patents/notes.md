@@ -75,8 +75,7 @@ distribute modified versions to others
 study, modify, distribute, make, and sell the design or hardware based on that design."
 http://freedomdefined.org/OSHW
 * Primarily about copyright licenses
-* Does not mandate no patents (!!!)
-
+* Does not explicitly mandate no patents (!!!)
 * Brief mention of trademark; must not be breached when producing OSHW
 "... obligation to make it clear that such products are not manufactured,
 sold, warrantied, or otherwise sanctioned by the original designer
@@ -160,6 +159,7 @@ https://blog.twitter.com/2012/introducing-innovators-patent-agreement
 https://github.com/twitter/innovators-patent-agreement
 RedHat
 http://www.redhat.com/legal/patent_policy.html
+alternative/complimentary, patent grant in open source license
 * Support patent reform
 https://eff.org/join
 
@@ -168,7 +168,13 @@ Strategic Open Hardware
 * Published designs/code as prior art for patents
 * Direct connection between problem/user and solution/company
 * Forming companies, recruiting from contributors
+TheGrid, 10 engineers, 7 timezones, 6 native languages
+I got hired due to demonstrating usefulness in open project
+give people a test project
 * Leadership due to visibility
+First mover advantage. Get it, maintain it
+I've been asked to consult by random people because they have
+seen my expertice in code/projects
 * Robustness in case of company failure
 Employees (or others) can take idea onwards!
 
