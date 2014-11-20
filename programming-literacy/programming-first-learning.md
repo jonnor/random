@@ -4,22 +4,22 @@ Background
 ------------
 
 Currently we teach kids to read and write (natural language) first,
-then we learn "the rest" of subjects (primarily) *through* these skills.
-Math, physics, biology, geography, history, art, music, etc.
+along with mathematics, then we learn "the rest" of subjects *through* these skills.
+physics, biology, geography, history, art, music, etc.
 
-In parallel we develop and improve the natural language skills,
+In parallel we develop and improve the natural language and maths skills,
 both for its own sake and to enable learning of more complex material in other subjects.
 At some point, usually around grade 4 we start to learn a second language,
 and in middle school a third.
 
-Less conciously we also teach visual language.
+Less conciously perhaphs, we also teach visual language.
 
 Learning about the computer is mostly limited to looking up information,
 primarily in natural language or visual form (images, video).
 
 Programming is normally taught only at high-school, and as a subject of its own,
 something to learn and use, but not primarily for further learning in other subjects
-In other words, it is not treated as *literacy* the way natural language is.
+In other words, it is not treated as *literacy* the way natural language & maths is.
 
 Experiment
 -----------
@@ -27,7 +27,7 @@ Experiment
 What would happen if one were to teach kids programming starting at the same
 age as natural and visual language, and following a similar progression?
 
-....details missing....
+TODO: add details/scenarios
 
 
 Discussion
@@ -58,6 +58,8 @@ for capture.
 
 In terms of literacy, the goal of learning programming is however not to be useful in-itself,
 but that it is useful for learning about new subjects and developing new knowledge.
+This perhaps suggests a departure from conventional programming languages and that using
+an established "useful" language from a vendor is a non-goal.
 
 
 Related
