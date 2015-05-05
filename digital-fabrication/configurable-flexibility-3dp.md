@@ -37,12 +37,16 @@ Hacks, development
 ---------------------
 
 * In Cura etc, specify very high wall thickness to keep small features at 100% fill.
+* Design in hollow-ness of object, use high infill for rest
+* [Swap-gcode-at-Z](http://umforum.ultimaker.com/index.php?/topic/8736-different-infill-settings-per-layer/)
 * [Prusa: Using unprintable holes to force shells](http://josefprusa.cz/selectively-making-parts-of-object-stronger-o/)
 * [ http://forums.reprap.org/read.php?1,192641 ]
 * [Special infill using OpenSCAD, include spherical fill](https://github.com/rptynan/Topper)
 * [Infill calculation using model intersection and OpenSCAD](http://garyhodgson.com/reprap/2012/01/thoughts-on-fill-algorithms)
 * [How infill is implemented in Cura](http://umforum.ultimaker.com/index.php?/topic/5937-ability-to-shift-infill-pattern-in-cura/?p=54789)
 * [Adaptive infill](http://axuv.blogspot.no/2012/01/adaptive-infill.html)
+* [Interactive simulation on 3d-print strength](http://www.autodeskresearch.com/publications/3dprintoptimization)
+* [Dynamic infill using tesselation](http://www.plunk.org/~hatch/HyperbolicTesselations/)
 
 Existing knowledge
 -------------------
@@ -90,14 +94,26 @@ similar to use in 3d inverse-kinematics/animation.
 
 Small test/simulation scenarios could be used to visualize flex behavior.
 
-Related research:
 
-* [Interactive simulation on 3d-print strength](http://www.autodeskresearch.com/publications/3dprintoptimization)
+Desired workflow
+------------------
 
+1) In CAD software, specify desired properties of regions (3d polygons).
+
+2) Allow to import these property regions also into the slicer.
+
+Implementation ideas
+-------------------
+
+Implement in Cura, in src/infill.cpp
+
+Maybe implement in FreeCAD 3d-print workbench instead of directly in Cura GUI, to avoid problems
+with how to communicate the infill properties/constraints from CAD to slicer.
 
 Possible testcases
 ------------------
 
 * Electronic drum pad
+* NinjaFlex wristband
 
 
