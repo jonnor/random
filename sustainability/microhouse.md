@@ -61,9 +61,29 @@ Documentation
 * Each solution should be documented well enough to be usable stand alone
 * Include rationale, constraints and inspirations
 
+Subsystems
+-----------
+
+Electricity
+
+* Budget: 200 watts average, with non-electic heating
+* Regular: Computer/phone
+
+CleanWater
+
+* Capture rainwater?
+
+Hotwater
+
+* 5L/day enough?
+
+
+
 
 References
 -------------
+
+Existing microhouses
 
 * [(Norwegian) Matias og Sara 11kvm mikrohus på hjul](http://www.aftenposten.no/bolig_old/Huset-deres-kostet-100000-kroner-og-er-pa-11-kvm-7861757.html)
 * Jakobs sauna-fleet
@@ -71,3 +91,8 @@ References
 * Kolonihagene i Oslo
 * [Podhouse, prefab 6-12 sqm microhouse](http://podhouse.info/en/)
 * [(Norwegian) Wooden concept micro-house](http://www.dinside.no/923143/her-skal-en-svensk-student-bo)
+* [Bunkie, prefab 10 sqm Canadian](http://www.thebunkie.com/)
+
+Watersystem
+
+* [Hot water using stove and thermosiphoning](https://www.youtube.com/watch?v=5IRLVCJ1olA)
