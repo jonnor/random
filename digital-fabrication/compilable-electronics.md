@@ -128,6 +128,7 @@ On Linux, std OS interfaces: GPIO, SPI, I2C
 * Do auto-layout of components, auto-tracing for component connections
 * Get Gerber files out for PCB production
 
+[Upverter electronics File format conversion tool](https://github.com/upverter/schematic-file-converter)
 
 ## Electronics system architecture
 
