@@ -13,6 +13,16 @@ That a house should accommodate.
 * Cooking
 * Meta: Improving the house
 
+Design for actual use. Currently in central Oslo apartment, I
+
+* Spend most of my time at desk, in front of computer and 3d-printer.
+* Sleep once a day ~8 hours, most days alone.
+* Cook upward of 1 (hot) meal a day. Rest is bread+spread, cereal etc.
+* Most meals doable with just 2 pots. Oven optional.
+* I shower usually once a day. Spend less than 45 mins total in bathroom.
+* I occationally have visitors, usually one, sometimes two.
+
+
 Needs
 ------
 
@@ -28,6 +38,14 @@ Wants
 * House to be mounted on trolley, for transporting with car
 * Window looking out from working area
 * Window looking out from sleeping area
+
+Esthetics
+--------
+
+* Minimal
+* Functional
+* Post-modern?
+* Tech meets nature
 
 Ideas
 ------
@@ -54,6 +72,7 @@ Research topics
 * Housing regulations in Norway, Scandiavia and EU.
 * Regulations for trolley size etc. B1: ~750-1250kg, BE: 3500kg.
 * Possible locations to keep a microhouse. Camping?
+* Contruction methods
 
 Documentation
 --------------
@@ -72,12 +91,58 @@ Electricity
 CleanWater
 
 * Capture rainwater?
+* Storage needed. Many use 300-400 liters. Tanks can hopefully go outside.
 
 Hotwater
 
+* For showering, cleaning dishes
 * 5L/day enough?
+* Heating on stove probably easiest
+
+Heating
+
+* Source. Wood? Gas? Electric?
+* Distribution. Airflow. Waterbourne?
 
 
+Cooking
+
+* Power source. Wood? Gas? Electricity is off if to be off-grid capable.
+
+Storage
+
+* Clothing
+* Bicycle
+* 
+
+Location
+----------
+
+Common
+
+* Not needing a car. Public transportation access to city/airport. Biking/walking distance to grocery store.
+* Ease of travelling to Norway/EU
+* + Opportunities to swim and bike/hike nearby
+
+Oslo-ish, Norway
+
+* - Cold in winter
+* - Expensive plots
+* + Known language
+* + Secure/stable environment
+
+Balkans
+
+* Croatia/Serbia/Montenegro
+* Should be close to sea, walking distance.
+* + Temperate climate
+* + Cheap-ish plots
+* Maybe ability to rent out in season
+* Plot listings [Montenegro](http://www.montenegroprospects.com/property/page/9/?st=property&s&t_region=--&t_property_type=--&price_from=--&price_to=50000)
+* Agricultural land over 3300sqm in Croatia can build house on
+* Islands of Brac, Hvar, Korcula, Vis all have ferry/boat connection to Split center. Plots `< 20000EUR`
+* (smaller) islands Otto Sipan, Lopud and Kolocep are connected to Dubrovnik.
+* Connections to islands outside Pula/Rijeka (Cres/Losinj) seems less developed
 
 
 References
@@ -92,7 +157,22 @@ Existing microhouses
 * [Podhouse, prefab 6-12 sqm microhouse](http://podhouse.info/en/)
 * [(Norwegian) Wooden concept micro-house](http://www.dinside.no/923143/her-skal-en-svensk-student-bo)
 * [Bunkie, prefab 10 sqm Canadian](http://www.thebunkie.com/)
+* [15 sqm house in New Zealand](http://www.treehugger.com/tiny-houses/living-big-in-a-tiny-house-tour-brett-sutherland-tiny-house.html)
+[video](https://www.youtube.com/watch?v=VckbqU4kK2I). Smart movable toilet.
+
+Container-based builds
+
+* [Container Guesthouse](http://www.poteetarchitects.com/containerguesthouse/1.html)
+* [Two-tree House](http://www.golanyarchitects.com/Golany%20Architects_Residence%20nr%20Jerusalem_01.htm). All-wooden exterior, built around two living trees. 
+* [Port-a-Bach](http://www.atelierworkshop.com/port-a-bach). Sidewall folds down to form deck.
+* [Platoon collective house (Berlin)](https://www.flickr.com/photos/angermann/2268782521/)
+* [Echo Eco Pod](http://www.gizmag.com/echo-eco-pods/33617/pictures#33)
+* [20' off-grid](https://www.youtube.com/watch?v=2l58L3QEVnc). Nice bedroom/louge split.
 
 Watersystem
 
 * [Hot water using stove and thermosiphoning](https://www.youtube.com/watch?v=5IRLVCJ1olA)
+
+Bedding
+
+* [Slide it under floor](http://www.treehugger.com/sustainable-product-design/living-with-less-first-hide-the-bed.html)
