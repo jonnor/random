@@ -92,6 +92,7 @@ CleanWater
 
 * Capture rainwater?
 * Storage needed. Many use 300-400 liters. Tanks can hopefully go outside.
+* waterHavested (liter) = roofArea (m2) * rainfall (mm) * 0.8 (collection factor). 25mm/30days @ 15m2 = 10 l/daily. Minimum?
 
 Hotwater
 
