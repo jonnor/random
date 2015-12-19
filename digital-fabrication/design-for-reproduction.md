@@ -1,6 +1,6 @@
 
 # Motivation
-Prevalence of 3d-printers.
+Prevalence of digital-fabrication tools, especially 3d-printers but also laser-cutter/CNC.
 FDM, RepRap
 
 File can and are shared online
@@ -14,6 +14,20 @@ no matter where they are in the world
 
 Ease of reproduction.
 Globally, rural/urban
+
+# Format
+To put it on the agenda. Primarily a manifesto/reference?
+Online. Single page, smple list of the most important points.
+Possibly with links to more detailed explanations (can come later).
+Should be concrete (easy to determine if in compliance)
+and actionable (provide neccesary info to come into compliance).
+Should be possible to evaluate a project according to each point, and
+come up with a rough (subjective is fine) score.
+
+Could also have concrete do's and don'ts, but this will require
+much more work to assemble and maintain.
+Possibly better to split out as separate resource? For instance (e-)books
+on design-for-reproducability for particular technologies (machine type, CAD software)...
 
 
 # Topics
@@ -51,6 +65,10 @@ Documentation
 * How to assemble part
 * Calculations for selecting particular geometry (ie for gears etc)
 
+Dissemination
+
+* Put your design up on common sharing sites, even if they are not the main project location.
+Ex: Umagine, Thingiverse
 
 Specific designs
 
@@ -68,6 +86,6 @@ Aesthetics
 
 # References
 
-RepRaps make just as stong parts as commercial machines
+* RepRaps make just as stong parts as commercial machines.
 [coverage](http://www.3ders.org/articles/20140228-open-source-3d-printed-parts-often-stronger-than-proprietary-versions.html)
 [study](https://www.academia.edu/6209168/Mechanical_properties_of_components_fabricated_with_open-source_3-D_printers_under_realistic_environmental_conditions)
