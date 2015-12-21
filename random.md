@@ -121,3 +121,19 @@ Other crazy ideas
 to go around and ask hackerspace members what they are creating + take pictures
 * Use Google Glass or similar + voice to record non-automatable input
 
+
+## Apps
+
+Most apps are shit, but they do have the potential to solve actual problems. Random ideas:
+
+### Resistor finder
+
+You prototype electronics and have a bunch of resistors (and other components) lying around in
+a pile/box/whatever so you can reuse them instead of just taking new ones and always making this pile grow.
+But it is quite tedious to find the riought value from such a pile.
+Worst is when you spend a lot of time, and then realize what you need is not there.
+
+Point smartphone camera to the pile. The app would scan the video contiously to find resistors based on their color coding.
+For a sparse pile it could overlay the info onto image. Or build up a list of available values.
+Could allow user to indicate desired resitor value, and then show just the location of that in the image.
+
