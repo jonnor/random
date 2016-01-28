@@ -43,3 +43,5 @@ Automated testing
 * brushless
 * electroproto
 * some Hackernews thread on 'why electronics is so hard/slow'
+* [PCBMODe](https://github.com/boldport/pcbmode).
+Python-based SVG scripting tools for laying out PCBs, with JSON input and CSS-like 'stylesheets'.
