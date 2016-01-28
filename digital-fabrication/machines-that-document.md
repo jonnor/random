@@ -1,7 +1,7 @@
 Machines that document
 ======================
 
-Workshop proposal made for [MakerCon Nordic 2014](https://gist.github.com/jonnor/33f5bf53646fab84bb2d)
+Workshop proposal made for MakerCon Nordic 2014: [Documentation is futile, make machines do it](https://gist.github.com/jonnor/33f5bf53646fab84bb2d). 
 
 Case study: 3d-printing
 
