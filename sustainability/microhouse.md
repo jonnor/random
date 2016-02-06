@@ -145,17 +145,22 @@ Balkans
 * (smaller) islands Otto Sipan, Lopud and Kolocep are connected to Dubrovnik.
 * Connections to islands outside Pula/Rijeka (Cres/Losinj) seems less developed
 
-Croatia
+Croatia, islands around Split
 
 * [Solta](http://www.realestatecroatia.com/eng/list.asp?mjesto=%C5%A0OLTA&sort=cijena&smjer=asc&submit=%3E%3E)
 * [Hvar](http://hvar-properties.com/search-results/search&category=&cijena-from=0&cijena-to=50000/)
 * Brac
 [1](http://www.broker.hr/Search/All/None/Brac/status3/)
 [2](http://www.realestatecroatia.com/eng/list.asp?mjesto=BRA%C4%8C&sort=cijena&smjer=asc&submit=%3E%3E)
-
 * Split-Dalmastiska
 [houses](http://www.realestatecroatia.com/eng/list.asp?vrsta=1&akcija=1&regija=17&opcina=..&cijena=Between+10000+And+35000&valuta=EUR&povrsinaOd=&povrsinaDo=&sort=cijena&smjer=asc&pagesize=40&foto=1&Submit=+)
 [land](http://www.realestatecroatia.com/eng/list.asp?vrsta=3&akcija=1&regija=17&cijena=Between+10000+And+35000&valuta=EUR&povrsinaOd=&povrsinaDo=&sort=cijena&smjer=asc&pagesize=40&foto=1&Submit=+)
+
+Croatia, cities around Split
+
+* Omis
+* Marina
+* Kastela
 
 Note: Camping outside dedicated campites [is illegal](http://www.camping.hr/camping-croatia/faq)
 

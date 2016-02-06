@@ -1,10 +1,10 @@
 
 Objects we have around us today are dumb.
-They don't know what they are, how they work, how they were made or
+They don't know what they are, how they work, how they were made or how they can be maintained or fixed.
 
 On every object, have a RFID/NFC tag(s) + printed URL (maybe QR code).
 Printed part also acts as geometric marker(s) at known location on object.
-Contain a unique id, per instance produced.
+Contain a unique id, per instance produced. Example:
 https://obj.jonnor.com/de305d54-75b4-431b-adb2-eb6b9e546013
 
 References repository of information about object
@@ -58,15 +58,17 @@ Maybe also do partial graph-db sync for offline-cache in clients.
 Allow referencing/linking sub-parts by their generated ID and/or given shortid in
 prose for instructions etc. "Attach #foo to #bar"
 
-Importing/sync from existing repositories.
-Thingiverse, Umagine, GrabCAD
-Allow automated syncing also to these?
+Importing/sync from existing repositories. Thingiverse, Umagine, GrabCAD
+Allow automated syncing also *to* these?
 
 Possibly related
 ----------------
 
 * WikiData?
-* [Smarter CAD](https://github.com/jonnor/projects/tree/master/smart-cad), 
+* [Smarter CAD](https://github.com/jonnor/projects/tree/master/smart-cad)
+* [QR description tags](https://github.com/jonnor/projects/tree/master/displaycase#qr-description-tags)
+* [Reality Editor by MIT](http://www.realityeditor.org/).
+Introspectable objects + linking web-enabled IDE like [Flowhub](http://flowhub.io) integration could enable similar
 * FabMicroHouse...
 
 Crazy:
