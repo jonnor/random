@@ -21,3 +21,19 @@ their reliability and stability.
 
 
 # Qualities of software engineering process
+
+
+
+
+# Qualities of a good solution to problem
+
+Domain/problem specific.
+
+## Related
+
+> Write down the thing that your generator will make. We’ll refer to this as your “artifact”
+> ...
+> You now have a list of desirable properties and constraints that you want and don’t want for your artifacts. 
+
+[So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator),
+mostly focused on generative art and games - but is more broadly applicable.
