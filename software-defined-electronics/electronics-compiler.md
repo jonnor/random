@@ -62,6 +62,37 @@ Possibly based on Fritizing or Upverter
 SparkFun/Adafruit/Arduino
 – find out if they would help in contributing to component library
 
+## Interfaces
+
+We think of different pieces of a circuit as "components" with well-defined interfaces.
+To be able to plug two components together, in a meaningful way their interfaces must be compatible.
+Similarly, to swap out one component for another, they must be compatible.
+
+There are leveral aspect/levels to this.
+
+* Physical
+* Electrical
+* Functional
+
+For instance, two practically identical components may have different physical layout.
+Like an IC available both in through-hole DIP socket, and smaller surface-mounted SO/TSOP/MSSOP.
+Such differences should be possible to let the 'compiler' handle automatically,
+as in most cases it would not impact on functionality.
+
+Two components may be functionally/semantically the same, but have different electrical interface.
+Example one microcontroller operates on 3.3v and another (of equivalent kind) operate on 5v,
+neccitating to convert between these two levels for digital I/O between them.
+A smart 'compiler' may also allow to inject the needed adapters.
+Automatically or proposed with human confirmation.
+
+Many times there are functionally equivalent components available, that are not identical.
+For instance, in many simple analog filter circuits, an LM358 and TL072 opamps might be practically equivalent.
+However, if there are particular requirements on input impedance, noiselevel, DC offset or voltage
+- this may not be the case.
+This suggests that functional equivalence is a problem-specific property, and that to
+offer strategies to adapt between these cases, the compiler needs to be aware of
+the particular *constraints* of the circuit.
+
 
 ## References
 
