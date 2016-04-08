@@ -29,7 +29,7 @@ Wall-mounted 3d-printer
 
 When idle, Z-bed is at top. As the machine progresses, the bed comes down.
 Depending on exact design, could be possible to make it as little as 10-15 cm tall when not in use.
-A tricky part is the Bowden tube and filament spool.
+A tricky part space for the Bowden tube and filament spool.
 [Pellets extrusion](http://richrap.blogspot.no/2014/12/no-more-filament-quest-for-universal.html)
 is an interesting alternative.
 
@@ -56,19 +56,22 @@ Using motorized legs (sit/stand like Ikea Bekant) could provide flexibility in w
 This probably limits the material thickness to ~5 cm.
 More than plenty for typical router work: 2D/2.5D operations on sheets.
 3d-milling tall vax models etc. would require a different tool (preferably 4-5d).
+More suited for the cabinet-style of a 3d-printer.
 
 Material should be feed in from front/back of machine.
 Table should include compartments with the required tools.
-The top-plate should be transparent (glass/acrylic/polycarbonate)
+The top-plate should be transparent (polycarbonate/acrylic/glass).
 
 Lock/clamps coming in from side would secure material, at least for standard right-angled sheets.
 Microswitch on the Z-axis for knowing material thickness. Could also verify plane-ness.
 
 A cyclonic dust separator could allow to keep vacuum noise/particle-emission down?
+Alternative would be to let the entire chamber have suction, pulling particles to the back and out.
 
 Laser would be a diode type, mounted directly on the head, next to spindle.
 
 An X-Carve/Shapeoko could behaps be used as a starting point for constructing.
+Challenge is the very limited Z-height.
 
 In an industrial setting, N (1-10) of these could be positioned on top of eachother in a "rack".
 The material could be input from the back, possibly automatically fed appropriate material from store.

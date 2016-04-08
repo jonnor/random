@@ -197,6 +197,21 @@ Bedding
 
 * [Slide it under floor](http://www.treehugger.com/sustainable-product-design/living-with-less-first-hide-the-bed.html)
 
-Communities:
+Online communities
 
-* [mikrohusprat.no](http://www.mikrohusprat.com/) Norwegian micro-house forum 
+* [mikrohusprat.no](http://www.mikrohusprat.com/) Norwegian micro-house forum
+
+Practicing communities
+
+* Global Ecovillages Network. [list of projects](http://gen.ecovillage.org/en/projects/459/all)
+* [Cohousing](http://www.cohousing.org/what_is_cohousing)
+
+Norwegian regulations
+
+* [Regjeringen: On temporary buildings](https://www.regjeringen.no/no/dokumenter/-20-1-bokstav-j-og--20-2-bokstav-c---Tilbakemelding-pa-henvendelse-om-midlertidig-bygning-konstruksjon-eller-anlegg/id2008989/)
+* [Jusstorget.no: Excemptions from building permits](https://www.jusstorget.no/byggeprosjekter-som-er-fritatt-fra-reglene-om-byggetillatelse/)
+
+Politics
+
+* [Housing without debt](https://medium.com/@AlastairParvin/housing-without-debt-5ae430b5606a) by WikiHouse Foundation co-founder.
+Argues for building an alternative market for houses: as homes for people - not assets for speculation.
