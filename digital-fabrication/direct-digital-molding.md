@@ -61,6 +61,31 @@ Hydraulic or Pneumatic may also be an option, especially if it can be digitally 
 
 See [electromotor project](http://github.com/jonnor/projects/tree/master/brushless)
 
+## Row-based actuation
+
+Problem with one-actuator per pixel display is that number of actuators grows with N*M, or if N=M then N^2.
+If we instead update row-wise, one row at a time, and then lock a set row in place, we can use only N actuators.
+This is essentially a tradeoff between maximum update rate (one actuator per) and lowest costs (only 1 actuator).
+
+Each pin could be evenly spaced with holes along the vertical axis.
+The actuator pushes one row of pins to the correct height.
+Then a set of metalrods is pushed the row of pins, locking each pin in the row at the right height.
+This process continues for each row. At the end the locking rods go through all the pins.
+
+Potentially one could to similar with hydraulic pistons, assuming one could get reliable cheap valves for each piston.
+This could increase Z-resolution a lot, though maybe harder to miniturize in X/Y and more complex/costly to make.
+
+If one can get setting of one row to take less than 3 seconds, then one set M=20 rows within 1 minute.
+Betwen 5mm and 3 mm Z resolution seems realistic with lasercut parts. And similarly down to 3 mm X/Y resolution.
+These numbers make it feasible to use for casting rough metal shapes (by pressing the pins into sand)
+- and only have to mill relatively little, regardless of the shape of desired form.
+For hard materials like metal this may save significant amount of time.
+For softer ones, milling directly may be just as fast, or that the extra tool does not justify the savings.
+
+The unit could be such that the pins/rack is interchangable. This way one can have multiple shapes, with a single machine.
+For instance two racks put towards eachother could make an enclosed volume.
+One could also use multiple machines together, and in this way build up bigger surfaces quicker.
+
 # Interface integration
 
 One could also envision interface device working along same principle, sensing
