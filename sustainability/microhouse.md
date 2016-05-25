@@ -1,5 +1,5 @@
 
-Microhousing is an alternative, and counter-movement to the ever growing.
+Microhousing is an alternative, and counter-movement to the ever growing sizes of personal and family housing.
 
 Activities
 ----------
@@ -22,7 +22,6 @@ Design for actual use. Currently in central Oslo apartment, I
 * I shower usually once a day. Spend less than 45 mins total in bathroom.
 * I occationally have visitors, usually one, sometimes two.
 
-
 Needs
 ------
 
@@ -35,7 +34,7 @@ Needs
 Wants
 ------
 
-* House to be mounted on trolley, for transporting with car
+* House to be transportable, for instance mounted on trolley
 * Window looking out from working area
 * Window looking out from sleeping area
 
@@ -138,7 +137,7 @@ Balkans
 * Should be close to sea, walking distance.
 * + Temperate climate
 * + Cheap-ish plots
-* Maybe ability to rent out in season
+* Maybe ability to rent out in season. Croatian tourism regulations quite strict however
 * Plot listings [Montenegro](http://www.montenegroprospects.com/property/page/9/?st=property&s&t_region=--&t_property_type=--&price_from=--&price_to=50000)
 * Agricultural land over 3300sqm in Croatia can build house on
 * Islands of Brac, Hvar, Korcula, Vis all have ferry/boat connection to Split center. Plots `< 20000EUR`
@@ -189,9 +188,30 @@ Container-based builds
 * [Echo Eco Pod](http://www.gizmag.com/echo-eco-pods/33617/pictures#33)
 * [20' off-grid](https://www.youtube.com/watch?v=2l58L3QEVnc). Nice bedroom/louge split.
 
+Hexayourt
+
+* Geodesic structures built with minimal modifications on lightweight 4'x8' material, and fiberglass-reinforced tape for joining together.
+* Design is in the public domain, with lots of documentations and variations.
+* Appropexia: [Hexayurt](http://www.appropedia.org/Category:Hexayurt_project).
+* Appropedia: [Hexayurt Playa](http://www.appropedia.org/Hexayurt_playa), specifically around building for Burning Man.
+* [Personal blog of the Hexayurt creator](http://vinay.howtolivewiki.com/blog/)
+* [EMF204: Hexayurt, Distributed Infrastructure, and Maximizing Global Minimalism](https://www.youtube.com/watch?v=dSD6DhuqFzA)
+"|as an opensource community|, why don't have we done anything about housing?"
+aligns the Napster->Spotify with situation of building codes.
+vested interests in having housing be expensive: large profitably industry, expensive housing (incl utilities and mortage) is a basis for tax.
+Goal of free software movement is to ensure freedom -> but we're still limited by physicals.
+"we're (opensource) winning in software, making good inways in electronics, and gadgets. Need to move into basic physical infrastructure: housing, watersupply, energy".
+What if we could have a 200-500 people nomadic village built of hackers, with open source infrastructure shipped around in containers.
+
+
 Watersystem
 
 * [Hot water using stove and thermosiphoning](https://www.youtube.com/watch?v=5IRLVCJ1olA)
+
+Heating
+
+* Woodgas stoves. Use a secondary burn to achieve higher efficiency and cleaner burn.
+http://www.woodgas-stove.com/ https://wildstoves.co.uk/product/wild-woodgas-stove-budget-duo-kit/
 
 Bedding
 
