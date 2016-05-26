@@ -202,6 +202,11 @@ vested interests in having housing be expensive: large profitably industry, expe
 Goal of free software movement is to ensure freedom -> but we're still limited by physicals.
 "we're (opensource) winning in software, making good inways in electronics, and gadgets. Need to move into basic physical infrastructure: housing, watersupply, energy".
 What if we could have a 200-500 people nomadic village built of hackers, with open source infrastructure shipped around in containers.
+* PIR plus. polyisocr. Brand names include: 
+* EU sellers. http://www.srx400.co.uk/buyonline/buy/celotex 20 sheets of 40mm looks to be 360 GBP+shipping.
+* Kingspan/SPU. http://www.spu-isolering.no/produkter/produkt/kingspan-therma-tr26-fr-spu-sp/ or http://www.spu-isolering.no/produkter/produkt/kingspan-therma-tp10-tf70-tw50-tw55-fr-spu-al
+* https://hipro.no/ sells PIR-sandwich materials
+* For living in semi-permanentlu, the tall hexayurt variations are probably the way to go. H15 (6 foot sidewalls) or H18 (8 foot sidewalls).
 
 
 Watersystem

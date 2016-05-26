@@ -50,3 +50,17 @@ Quality-of-life `FIXME:better name`
 # Interesting
 
 What do the people in the area need/lack? Anything I'd be interested in providing?
+
+# Candidates
+
+Just tossing things out there now...
+
+* Makarska/Split
+* Lisbon
+* Barcelona
+* Prague?
+
+Not-interesting
+
+* London. Too expensive, sprawl
+* Berlin. Already lived there before...
