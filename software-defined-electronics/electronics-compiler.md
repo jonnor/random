@@ -112,3 +112,32 @@ Out there on the Internet
 * some Hackernews thread on 'why electronics is so hard/slow'
 * [PCBMODe](https://github.com/boldport/pcbmode).
 Python-based SVG scripting tools for laying out PCBs, with JSON input and CSS-like 'stylesheets'.
+
+
+
+## Proof of concept
+
+Example project
+
+* Microcontrolller
+* on/off switches MOSFET
+* Voltage regulator
+
+Use KiCAD as base?
+
+* Each module own github repo
+* Similart import to Part library wizard
+* Module is a schematic, set of layout variants, and a file file declaring the module (connecting these files)
+* From module/layout, generate a footprint, that can be used in a project
+
+Second-degree
+
+* BOM generation, can be a script which picks up schematics and parts
+
+"Continious delivery"
+
+* All tools should run on commandline
+* git submodules as dependencies?
+* Single-source of information
+
+
