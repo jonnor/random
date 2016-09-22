@@ -1,6 +1,15 @@
 # Reading list
 Misc. things I've read. Most recent entries on top.
 
+## Hard work is not enough
+Seen: September 22, 2016.
+
+[Hard work is not enough](https://medium.com/practicing-developer/hard-work-is-not-enough-406856133a35#.97eqdrroo)
+
+> Instead, pay attention to two things:
+> 1. The things that you are drawn to which allow you to use your skills and life experiences in the most effective possible way.
+> 2. The things that you know will have a *clear and positive impact* on *real people* *who you care about*.
+
 
 ## Inventing on Principle
 Seen: February 21, 2016 (possibly once before too?)

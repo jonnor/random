@@ -64,3 +64,10 @@ Not-interesting
 
 * London. Too expensive, sprawl
 * Berlin. Already lived there before...
+
+# Tools
+
+Cost of living calculators
+
+* https://www.theearthawaits.com/search-result/
+* https://www.expatistan.com/cost-of-living/comparison/seville/oslo
