@@ -12,4 +12,5 @@ Resources:
 
 * [1](https://www.hydrofarm.com/resources/articles/co2_enrichment.php).
 Includes methods, calculations and tips for how to maintain proper concentation.
-
+* [2](http://fifthseasongardening.com/regulating-carbon-dioxide).
+CO2 should be fed above plants, as CO2 is significantly hotter than air. Links to test/monitoring tools.

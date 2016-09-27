@@ -164,6 +164,14 @@ Croatia, cities around Split
 Note: Camping outside dedicated campites [is illegal](http://www.camping.hr/camping-croatia/faq)
 
 
+Legalities Croatia
+
+* Buy a house in Croatia, the key documents you need. http://www.liveistria.com/?p=2894
+* Limitations on foreign purchases in EU. https://tranio.com/traniopedia/tips/european_limitations_on_foreign_property_purchases/
+Croatia: Foreign citizens cannot buy agricultural land, unless they create or buy it through a Croatian company.
+* "Starting from date 01.02.2009 the Croatian government has removed all of its restrictions"
+http://www.adriatica-estate.com/buying-guide-property-in-croatia/en-755.html
+
 References
 -------------
 
