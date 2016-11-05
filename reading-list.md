@@ -1,5 +1,45 @@
 # Reading list
-Misc. things I've read. Most recent entries on top.
+Misc. things I've read, and bothered to make notes about.
+
+Most recent entries on top.
+
+## The Future of Software Engineering
+Seen: November 4, 2016
+
+[YOW! 2015 - Glenn Vanderburg - The Future of Software Engineering](https://www.youtube.com/watch?v=Tg9D7UE4TyI)
+
+Premise: The act of creating software today has little to do with engineering.
+And it is not because it should not, but because software engineering so far has
+failed to be a useful/productive model/disipline.
+
+
+> The Engineering Method is the use of heuristics to cause the best change
+> in a poorly understood or uncertain situation within the available resources
+Billy Vaughn Koen, Discussion of The Method. (context: mechanical engineering)
+
+> the emperical process control model provides and excersises control 
+> through frequent inspection and adaptation for processes that are
+> imperfectly defined and generate unpredictable and unrepeatable outputs
+
+> the picture of the software designer deriving his design in a rational way
+> from a statement of requirements is quite unrealistic
+> No system has ever been developed that way, and probably none ever will
+David Parnas
+
+
+> There is no essential difference between design and production,
+> since even the production will include decisions which influence the performance
+> of the software system, and thus properly belong in the design phase
+Peter Naur, 1968
+
+"The source code is the design document". The "built product" (following civil engineering model),
+is the deployed/running thing on servers.
+Given the design, we can "build" the product effectively instantatiouly and for no money,
+exactly and deterministically, each time.
+
+> Embrace the code as design documents, formal specification, and modelling tool.
+
+
 
 ## Hard work is not enough
 Seen: September 22, 2016.
