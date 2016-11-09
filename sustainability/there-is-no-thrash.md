@@ -16,6 +16,7 @@ Instead we should see these products as possible inputs to new, or old processes
 
 ## Cardboard
 
+
 Pros
 
 * Lightweight
@@ -24,6 +25,7 @@ Pros
 * Easy to cut with machine. Lasercutter, CNC/dragknife
 * Easily bent into shapes
 * Easy to cut/shape by hand
+* Reasonably standardized thicknesses
 
 Challenges:
 
@@ -32,7 +34,18 @@ Challenges:
 * Very varying in size
 * Often has plastic on it, packaging tape/labeling etc.
 * Very flammable
+* Different strength depending on flute direction
 
+Existing
+
+* [Wikkelhouse](http://www.wikkelhouse.com). Microhouse based on sections with an insulated core of cardboard,
+made by wrapping around a frame.
+"Cardboard is so undervalued material. There is no other building material is so light, strong and insulating.
+Most people think of cardboard as a box or a packet of mail. Each tries himself to reason that it cannot be a cardboard house.
+But it can be excellent. We are just not used to it yet."
+* [Shigeru Ban](https://en.wikipedia.org/wiki/Shigeru_Ban#Use_of_paper_as_a_building_material), arcitect working a lot with cardboard/paper,
+especially cardboard tubes.
+* [Corrugated Cardboard Pod](http://www.ruralstudio.org/projects/corrugated-cardboard-pod), small house using stacked strips of corrugated cardboard as walls.
 
 Techniques
 
@@ -44,8 +57,17 @@ Techniques
 Research:
 
 * What is the standard/status-quo in reuse/recycling of cardboard?
+"The  recovery  ratio  for  corrugated cardboard in Japan is was 84.4% in 1997, 85.9% in 1998, 88.8% in 1999, and 93.4%"
 * How to fire-proof it?
 
+References
+
+* [Corrugated fiberboard](https://en.wikipedia.org/wiki/Corrugated_fiberboard)
+* [Walls and flute configurations](http://www.hagercontainers.com/corr0).
+[2](http://www.packsize.com/know-your-different-types-of-corrugated-cardboard/). C-flute, 4mm most common.
+* [Sustainability of Corrugated Cardboard Houses as Temporary Emergency Shelters](http://www.irbnet.de/daten/iconda/CIB4373.pdf)
+"The environment-friendly characteristics of corrugated cardboard housing are noteworthy"
+* [Image search: cardboard furniture](https://www.google.es/search?q=cardboard+furniture&source=lnms&tbm=isch)
 
 # Related
 
