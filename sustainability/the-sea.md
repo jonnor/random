@@ -48,6 +48,7 @@ Floating gardens aquaponics
 
 [Prelude FLNG](https://en.wikipedia.org/wiki/Prelude_FLNG), is the largest off-shore facility ever constructed, at 488 meters long and 74 meters wide.
 
+[3D ocean farming](http://greenwave.org/3d-ocean-farming), underwater farming concept focused on dietary protein. 
 
 # Challenges
 
