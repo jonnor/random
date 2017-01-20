@@ -49,6 +49,11 @@ Two-generations of artificial islands made by one person, 20-25 meters across, c
 "governments could only form if people *choose* to attach to eachother". Voluntary engagement shifts the incentives of governance.
 [Floating City Project Report](http://www.seasteading.org/wp-content/uploads/2015/12/Floating-City-Project-Report-4_25_2014.pdf).
 
+Floating cities
+
+* [Top 10 trends towards floating cities: Koen Olthuis at TEDxVilnius](https://www.youtube.com/watch?v=IqmmuIbchvU).
+FLOAT=Flexible Land On Aquatic Territory.
+
 Floating gardens aquaponics
 
 * [Prelude FLNG](https://en.wikipedia.org/wiki/Prelude_FLNG), is the largest off-shore facility ever constructed, at 488 meters long and 74 meters wide.
