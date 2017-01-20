@@ -44,11 +44,19 @@ was a plan by the British during the Second World War to construct an aircraft c
 * [Spiral Island](https://en.wikipedia.org/wiki/Spiral_Island).
 Two-generations of artificial islands made by one person, 20-25 meters across, consisiting of 50-100k plastic bottles.
 
+* [Seasteading Institute](https://www.seasteading.org/) plan to build artificial islands, first hosting 200-300 people in French Polynesia.
+[Article in dn.no (norwegian)](http://www.dn.no/nyheter/2017/01/20/0820/Utenriks/her-vil-de-bygge-verdens-forste-flytende-by)
+"governments could only form if people *choose* to attach to eachother". Voluntary engagement shifts the incentives of governance.
+[Floating City Project Report](http://www.seasteading.org/wp-content/uploads/2015/12/Floating-City-Project-Report-4_25_2014.pdf).
+
 Floating gardens aquaponics
 
-[Prelude FLNG](https://en.wikipedia.org/wiki/Prelude_FLNG), is the largest off-shore facility ever constructed, at 488 meters long and 74 meters wide.
+* [Prelude FLNG](https://en.wikipedia.org/wiki/Prelude_FLNG), is the largest off-shore facility ever constructed, at 488 meters long and 74 meters wide.
 
-[3D ocean farming](http://greenwave.org/3d-ocean-farming), underwater farming concept focused on dietary protein. 
+* [3D ocean farming](http://greenwave.org/3d-ocean-farming), underwater farming concept focused on dietary protein. 
+
+
+
 
 # Challenges
 
