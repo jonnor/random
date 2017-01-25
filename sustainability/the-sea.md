@@ -81,6 +81,18 @@ Energy
 * The Deep Range, Arthur C. Clarke.
 The earth's population is fed principally from the sea--on whale products or from plankton farms
 * The Blue World, Jack Vance. Space colonists have crashed on a water-planet, and twelve generations
+* Edgar Allen Poe - The city in the Sea
+
+## Mythology
+
+* Atlantis
+* [Lemuria](https://en.wikipedia.org/wiki/Lemuria_(continent)), a continent lost in the sea
+* Noas Ark
+
+## Modern culture
+
+* Surfing
+* Kiteboarding
 
 
 # Unrelated
@@ -91,3 +103,64 @@ The earth's population is fed principally from the sea--on whale products or fro
 > on an island surrounded by the sea and the darkened earth.
 
 [Subsignal - The Sea](https://www.youtube.com/watch?v=fJM8Fs15fL0)
+
+> "We see an ocean once was land"
+> and so they come to understand
+> This place where man used to be born
+> Will be man's water throne
+[Orphaned Land - Ocean Land](https://www.youtube.com/watch?v=tS97NQfGvqA)
+
+TNT - Seaven Seas
+
+> We shape life, we travel space
+> But we don't know the words to the songs of the ocean
+[Star One - Songs of the Ocean](https://www.youtube.com/watch?v=7qI2K3Jl0qk)
+
+> Beneath the waves we were invincible
+> In a world without frontiers
+> World without walls
+> Beneath the waves we were inseparable
+> In a world without walls
+[Ayreon - Beneath the Waves](https://www.youtube.com/watch?v=PNMnnOOWqY4)
+
+[Nightwish - Crimson Tide Deep Blue Sea](https://www.youtube.com/watch?v=gbdbstVvvy8) (instrumental)
+
+> I was thinking we could walk on water
+> And still find reasons to swim inside
+> Now I'm worried there's a bigger wave
+> Just behind this one
+> I was thinking there's a bigger wave
+> Just behind this one
+[O.S.I - Bigger Wave](https://www.youtube.com/watch?v=66L-VN8HZi0)
+
+> The sea is calling me
+> My will to live is stronger than
+> These tides could ever be
+> The sea is calling
+> Why won't I let these waters
+> Claim me victory?
+[Kamelot - Call of the Sea](https://www.youtube.com/watch?v=TVb0vFa1Isk)
+
+Roswell Six - The Call of the Sea
+
+> Never gonna let it go
+> Always gonna keep the dream alive
+> Nothing's gonna change my mind
+> I know I'm gonna find the way this time
+> 
+> I'll see Atlantis rising
+> I burn my bridges, no return
+> I'll see Atlantis rising
+[Nightingale - Atlantis Rising](https://www.youtube.com/watch?v=A6_RnACSg0s)
+
+> This is the entrance, the past awakes
+> Another culture, another dominion breaks
+> This is the end, this is our way
+> There's nothing left and nothing left to say
+[Visions of Atlantis - The Ark](https://www.youtube.com/watch?v=eqFjMVtQRlo)
+
+
+> Sail amidst the open sky - the quest is now reality
+> Beauty and grace - we blaze the trail - the seas eternity
+> Floating away into a world of forever
+[Eidolon - Lost Voyage](https://www.youtube.com/watch?v=goFu95gPCEY&list=PL0a1zMyCNxRkRBszbefI1i_Y0ZYSPotid&index=23)
