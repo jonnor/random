@@ -85,7 +85,7 @@ Subsystems
 Electricity
 
 * Budget: 200 watts average, with non-electic heating
-* Regular: Computer/phone
+* Regular: Computer/phone, work/reading lights.
 
 CleanWater
 
@@ -96,14 +96,104 @@ CleanWater
 Hotwater
 
 * For showering, cleaning dishes
-* 5L/day enough?
-* Heating on stove probably easiest
+* The average American shower uses 65.1 liters of water and lasts for 8.2 minutes at average flow rate of 7.9 liters/minute.
+* Should have grey-water heat-exchanger for shower. More beneficial the colder the input water is.
+* Per person 50 liters/daily hotwater. 2.5kW/daily. http://www.esru.strath.ac.uk/EandE/Web_sites/09-10/Hybrid_systems/solar-thermal.htm
+* 2 m2 flat-bed indirect active panel should be able to provide this.
+* Seems to be available as kit for ~1000EUR. http://www.ecosolarspain.com/untitled-sitepage_10
+* Solar water (pre)heating doable in warmer climates
+* Nice list of 1k USD DIY heaters, http://www.builditsolar.com/Projects/WaterHeating/water_heating.htm#1KSolarWater
+* North/mid-Spain has average annual solar irridiation in excess of 1500 kWh/m2/year, or 4 kWh/m2/day.
+http://www.builditsolar.com/References/Measurements/CollectorPerformance.htm#Efficiency
+* Hot water good way to store surplus energy
+* Normal also need an on-demand heating solution. Electric/gas/oil/wood
+* Heating on stove
+
+Solar water heater
+
+Panel, 60x100cm
+
+* Glazing. 10-13 EUR. http://www.mwmaterialsworld.com/es/materiales/metacrilato-y-policarbonato/policarbonato-celular/plancha-de-policarbonato-celular.html
+http://www.leroymerlin.es/fp/10603033/placa-policarbonato-celular-sedpa-
+http://www.leroymerlin.es/fp/10784221/placa-policarbonato-celular-sedpa-
+* Collector: 13 EUR PC channels, 25++ EUR alu plate, 50++ EUR copper.
+http://www.mwmaterialsworld.com/es/materiales/metal/cobre/plancha-de-cobre-industrial.html
+http://www.aki.es/productos/chapa-aluminio-bruto-liso/idp18745
+http://www.aki.es/productos/chapa-aluminio-anodizado-ondulado/idp18792
+* Tubing. 10 EUR
+* Paint. Absorbtion, protective. 10 EUR.
+* Insulation. 10 EUR
+* Framing. 10 EUR.
+
+Total, 70-120. For ~2m2 need 3 such panels, 300 EUR.
+
+* Pump: 50 EUR. Also needs electricity. Alternative, thermosiphing.
+* Tank: 100 EUR. Might be part of general hotwater system
+* Heat exchanger. 50 EUR for simple copper-tubing in tank type.
+https://www.garciaruiz.es/webcms/index.php?menu=tiendavirtual&submenu=ficha_producto&id_producto=881&gclid=CNrMhNudjNICFUmNGwodONwE5Q
+Single-wall, so requires use of non-toxic fluid in solar-cell loop, such as Propylene Glycol.
+* Heater fluid additives. 25+ EUR.
+http://www.ebay.es/itm/5-LITRES-Propylene-Glycol-PG-USP-EP-GRADE-/281053133185
+https://www.amazon.com/Propylene-Glycol-Perfect-Sweetness-Highest/dp/B00GI2CIQS
+
+Smarts
+
+* Flow sensors.
+https://www.adafruit.com/product/828 / http://www.dx.com/p/yf-s201-hall-effect-water-flow-counter-sensor-black-217625
+Feedback-based system. Attempt to hit a certain flow rate. Measure/check the needed voltage (PWM dutycycle) to get there.
+This can then be tracked over time, indicating the 'resistance' in the system.
+If exceeding certain threshold, give warning.
+One can also swap the water in the system a known volume) periodically instead of running continiously. Can help the pump.
+* Temperature sensors.
+http://www.dx.com/p/waterproof-ds18b20-temperature-sensor-with-adapter-module-for-arduino-429959
+
+Would be nice to have temp in+out, and flow per panel.
+
+Questions
+
+* How much water should be inside the collector?. This dictates size of channels.
+* Can we use alu sheet for collector combined with copper tubing in heat exchanger? Do we need sacrifical anodes?
+* Can we avoid the fairly expensive metal sheet if the surface area is large enough? How much does it impact effectivity
+* If using transparent plastic as collector, should probably paint backside black. The portable plastic bag heaters do this.
+* Can we use corrugated aluminium roofing sheets as front for collector?
+Available at 25 EUR/m2, but maybe only in large sizes.[1](https://www.maxbo.no/takplate-20-105-sort-hc25-2-5m-plannja-p20-dekkbredde-1050-svart-t-0-50mm-p447375). Non-alu:
+[2](http://www.leroymerlin.es/fp/18211200/cobertura-metalica-ondulada-sedpa-?idCatPadre=600369&pathFamilaFicha=381201)
+[3](http://www.leroymerlin.es/fp/10020752/cobertura-metalica-ondulada-sedpa-?idCatPadre=600369&pathFamilaFicha=381201)
+However, very useful in general when making a house, both for roofing and possibly for walls.
+Challenge is plumbing the corrugated shape at top/bottom.
+Welding alu/alu is ideal, but speciality skill+tools.
+Can we just silicone the shit to a flat with drilled holes in them?
+* Tank temperature must be minimum of 49 degrees, to prevent Legionaires bacteria. 60 degrees is recommended (by WHO).
+At 60 plus degrees they die very fast, so daily spikes above to this may be good.
+49 degrees max at tap is recommended to protect against scolding.
+
+Tools
+
+* Solar power meter. "Pyranometer". For measuring the irridiance of the sun. Watt/m2 or Btu
+https://www.amazon.com/Dr-Meter-SM206-Digital-Solar-Power/dp/B008R5W2J2
+
+Refs
+
+* http://www.builditsolar.com/Experimental/CopperAlumCollector/Performance.htm
+
+
+Solar electricity
+
+* Seems like cells can be had for 500 EUR/kW.
+* 12 volt batteries at 150 EUR / 100 Ah.
+* A 1kW system with 2kWh storage might be doable for 1000 EUR in parts, including charging and inverter.
 
 Heating
 
+* Depends a lot on climate..
 * Source. Wood? Gas? Electric?
 * Distribution. Airflow. Waterbourne?
+* Water can make use of solar thermal
 
+Cooling/ventilation
+
+* Only needed in warm climates. Like Spain 2-3 months in summer
+* https://en.wikipedia.org/wiki/Solar_chimney
 
 Cooking
 
@@ -220,6 +310,13 @@ What if we could have a 200-500 people nomadic village built of hackers, with op
 Watersystem
 
 * [Hot water using stove and thermosiphoning](https://www.youtube.com/watch?v=5IRLVCJ1olA)
+
+Solar water heaters
+
+* Can be used
+* [DIY solar water heating](http://www.reuk.co.uk/wordpress/heating/diy-solar-water-heating/), practical guide.
+Covering basic principles, suggestions for build.
+* [](http://www.reuk.co.uk/wordpress/solar/evacuated-tube-solar-water-heating/)
 
 Heating
 
