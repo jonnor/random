@@ -167,6 +167,14 @@ Can we just silicone the shit to a flat with drilled holes in them?
 At 60 plus degrees they die very fast, so daily spikes above to this may be good.
 49 degrees max at tap is recommended to protect against scolding.
 
+Other uses
+
+* Public showers.
+* Showers for events, like festivals etc
+* Use for water purification. Both the heat and UV radiation contributes.
+[Solar water disinfection](https://en.wikipedia.org/wiki/Solar_water_disinfection).
+Note: Polycarbonate (resin identification code 7) blocks all UVA and UVB rays.
+
 Tools
 
 * Solar power meter. "Pyranometer". For measuring the irridiance of the sun. Watt/m2 or Btu
@@ -175,6 +183,13 @@ https://www.amazon.com/Dr-Meter-SM206-Digital-Solar-Power/dp/B008R5W2J2
 Refs
 
 * http://www.builditsolar.com/Experimental/CopperAlumCollector/Performance.htm
+
+Water purification
+
+* [Turbidity](https://en.wikipedia.org/wiki/Turbidity) is a key measurement of how much (small) particles are in the water,
+measured optically. WHO says turbidity of drinking water should not be more than 5 NTU, and should ideally be below 1 NTU.
+There is an open-source design of a hand-held unit in the [wash4all project](https://github.com/wash4all/open-turbidimeter-project).
+Another design at [Appropedia: Water quality testing platform](http://www.appropedia.org/Open-source_mobile_water_quality_testing_platform)
 
 
 Solar electricity

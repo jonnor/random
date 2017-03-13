@@ -108,8 +108,22 @@ Challenges:
 # Interesting sub-projects
 Things I'd like to try out
 
+Scheduled
+
+* Solar water heating system. Designed for covering 1-person usage, making 1 out of N modules first.
+* Personal electronics-sized photovoltaic. 50W effect,600W storage
+
+Later
+
+* Woodstove gasifier/double-burn, for heating and foodpreparations.
+* Seasoning-scale hydroponics system. Chilantro,oregano,basil. Chili,garlic
+* Rain-water collection system. Feeding into hydroponics.
+
+Maybe
+
+* Hexayurt or similar hyper-minimal housing unit.
 * Power-generator unit. Handcrank/bicycle/flexible. ~100 watts
 * Windmill, fabricated in fablab/makerspace. 1kW?
-* Hexayurt or similar minimal housing unit.
-* Woodstove gasifier/double-burn, for heating and foodpreparations.
+
+
 
