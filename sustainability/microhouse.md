@@ -109,7 +109,58 @@ http://www.builditsolar.com/References/Measurements/CollectorPerformance.htm#Eff
 * Normal also need an on-demand heating solution. Electric/gas/oil/wood
 * Heating on stove
 
-Solar water heater
+### Smart shower
+
+Automatically regulates to achieve a set flowrate and temperature,
+and times the use of water to minimize usage.
+
+Press shower button to start, from outside the shower area.
+The shower heats up and notifies when set point is reached.
+User enters the shower, working to get water everywhere on their body.
+The shower shows a 'progress bar' for how long the water will be on.
+When reached, it turns off automatically.
+User should now soap in, and then press button again to start rinse.
+Again the 
+
+Controller measures the total amount of water spent, and calculates
+the energy used. If energy costs are available, can calculate the costs.
+Should compare this to the national/regional average, and report relative gains:
+Time saved, energy saved and money saved.
+
+For extra gamification, can track progress until the device is paid back.
+When paid back, offer to share on social media.
+And give user a 2 coupons for NN % off that can be given away 'recommend to friend'.
+After paid back, show how much money saved cumulative.
+
+Inefficiencies of conventional showering
+
+* People shower way too long
+* People shower a bit often (sometimes several times a day)
+* The heated water leaves almost as hot, and just goes down the drain
+* Air heated by water typically just exits top of shower
+* Electricity primary heating source (extremely high-quality energy) 
+
+Possible extensions.
+
+* Valve near showerhead (and valve earlier, with proper backdrain)
+When heating up, output water will be diverted there.
+So that user can wait in the shower instead of outside.
+
+### Bathroom construction
+
+Integrate shower with toilet+sink into one cabinet that is "bathroom".
+Use water-tight compartments to keep toiletries+towel while showering.
+
+Cast concrete floor/base?
+Channel-plastic walls (polycarbonate)? Silicone sealant. On wooden outer structure.
+Semi-transparent walls w light shining through may reduce feeling of being cramped?
+Could also be transparent at eye-height and above. Also window towards the outside?
+Large mirrors may also create an illusion of more space.
+Sink/wash-basin can also be cast in concrete, to avoid having to find a fitting standard one.
+
+Want fans/vents to quickly empty compartment of humid air after showering.
+
+### Solar water heater
 
 Panel, 60x100cm
 
