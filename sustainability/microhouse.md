@@ -69,12 +69,41 @@ Research topics
 --------------
 
 * Housing regulations in Norway, Scandiavia and EU.
-* Regulations for trolley size etc. B1: ~750-1250kg, BE: 3500kg.
 * Possible locations to keep a microhouse. Camping?
 * Contruction methods
 
-Documentation
---------------
+## Transportation
+
+In Norway. Many regulations normalized 
+
+* Regulations for trolley size etc. B1: ~750-1250kg, BE: 3500kg.
+* Regular maximum vechile width, 2.55m. Few refs of 2.6m
+* Maximum height: 4 meters (new: existing trucks can run until 2020)
+
+Crane transport
+
+* 2.5m load width common
+* Large sideloaders can move up to 2 tonn to 14 meters (28tonn/m).
+* Large semis loads up to 12 meter (1 containers), small 6 meter (1 container).
+
+## Housing regulations Norway
+
+Every building has to be applied for. TEK17 (prev. TEK10) provides the regulations.
+Strict rules for energy consumption, some excemptions for small house or cottags.
+Univeral access may pose restrictions on room sizes.
+
+Excemptions
+
+* Temporary structures up to (2-3 months)
+* 'brakke' used while constructing building (construction must be approved)
+* additional structure up to 50m2 with no sleeping/kitchen/living room *in addition to existing building*
+
+
+### Refs
+
+* [MIDLERTIDIGE BOLIGBRAKKER veilledning Baerum kommune](https://www.baerum.kommune.no/globalassets/tjenester/plan-og-bygg/veiledninger/midlertidige-boligbrakker---byggesak.pdf).
+
+## Documentation
 
 * Each solution should be documented well enough to be usable stand alone
 * Include rationale, constraints and inspirations
@@ -109,7 +138,7 @@ http://www.builditsolar.com/References/Measurements/CollectorPerformance.htm#Eff
 * Normal also need an on-demand heating solution. Electric/gas/oil/wood
 * Heating on stove
 
-### Smart shower
+### Smart regulation for shower
 
 Automatically regulates to achieve a set flowrate and temperature,
 and times the use of water to minimize usage.
@@ -126,11 +155,11 @@ Controller measures the total amount of water spent, and calculates
 the energy used. If energy costs are available, can calculate the costs.
 Should compare this to the national/regional average, and report relative gains:
 Time saved, energy saved and money saved.
+Can also track cumulative benefits, progress until device is paid back.
 
-For extra gamification, can track progress until the device is paid back.
-When paid back, offer to share on social media.
-And give user a 2 coupons for NN % off that can be given away 'recommend to friend'.
-After paid back, show how much money saved cumulative.
+Commercial alternatives exist, but none that seem to have this desired
+(and quite opinionated) workflow?
+Makes sense to tailor to personal needs, keeping it minimal.
 
 Inefficiencies of conventional showering
 
@@ -144,7 +173,23 @@ Possible extensions.
 
 * Valve near showerhead (and valve earlier, with proper backdrain)
 When heating up, output water will be diverted there.
-So that user can wait in the shower instead of outside.
+Can wait in the shower instead of outside.
+Can be used for safety (temp over/under acceptable).
+
+Regulation implementation
+
+* Temperature sensor on outbound water. Low thermal mass for quick response?
+* Control of hot water and cold water separately. Pumps or valves.
+* Estimate (or measurements) of hot and cold water temperatures.
+* Indicator that temperature and flow is reached. Should not be maxing out any controls.
+* Overshoot should be low, but settling time nad response to change can be relatively slow.
+* PID regulation via microcontroller
+* Probably use an auto tuning method to set parameters.
+* The water controls will likely be non-linear. Should this be corrected for?
+For pumps can do a table or polynomial mapping.
+* Linearize controls using independent warm/cold flow sensors, regulate pump/valve in closed-loop.
+Flow at outlet is sum of warm+cold intakes. Needs to be fastish, since setpoint will be changed by temp loop?
+This is similar sub-problem as for flow control in solar-water heater.
 
 ### Bathroom construction
 
