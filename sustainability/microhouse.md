@@ -98,6 +98,9 @@ Excemptions
 * 'brakke' used while constructing building (construction must be approved)
 * additional structure up to 50m2 with no sleeping/kitchen/living room *in addition to existing building*
 
+Technical requirements
+
+* [Insulation](https://www.byggforsk.no/dokument/3461/minstekrav). Outerwall, uvalue `< 0.18`. 120-140mm PIR
 
 ### Refs
 
@@ -184,12 +187,17 @@ Regulation implementation
 * Indicator that temperature and flow is reached. Should not be maxing out any controls.
 * Overshoot should be low, but settling time nad response to change can be relatively slow.
 * PID regulation via microcontroller
-* Probably use an auto tuning method to set parameters.
 * The water controls will likely be non-linear. Should this be corrected for?
 For pumps can do a table or polynomial mapping.
 * Linearize controls using independent warm/cold flow sensors, regulate pump/valve in closed-loop.
 Flow at outlet is sum of warm+cold intakes. Needs to be fastish, since setpoint will be changed by temp loop?
 This is similar sub-problem as for flow control in solar-water heater.
+* [PID tuning basics](https://innovativecontrols.com/blog/basics-tuning-pid-loops)
+* Use an auto tuning method to set PID parameters?
+* Such type of controller is called an Electronic Pressure Independent Valve (EPIV or PICV).
+Example: [Belimo EPIV](https://www.belimo.us/americas/piv.html).
+[Dynamx](http://www.marflowhydronics.co.uk/products/dynamx/overview/)
+[Distech](http://www.distech-controls.com/en/ca/products/field-devices/va-valves/related-products/pressure-independent-valve-act/)
 
 ### Bathroom construction
 
@@ -204,6 +212,9 @@ Large mirrors may also create an illusion of more space.
 Sink/wash-basin can also be cast in concrete, to avoid having to find a fitting standard one.
 
 Want fans/vents to quickly empty compartment of humid air after showering.
+
+Store water in the inner wall divider? 10cm x 50 cm x 100cm x 2 = 100 liters.
+At least any plumbing should go there. 
 
 ### Solar water heater
 
@@ -316,6 +327,24 @@ Storage
 * Bicycle
 * 
 
+## Furniture
+
+### Bed
+
+Possible designs
+
+* Fold-down from wall
+* On floor, with hardcover
+* Bunkbed underneath ceiling
+* Sofa, remove the pillows
+* Sofa, slide out bottom part 
+* Sofa, back bends down
+
+### Ideas
+
+* Sofa-pillows and clothes storage combined. Vacumbag with textile covers, clothes inside
+
+
 Location
 ----------
 
@@ -415,6 +444,8 @@ What if we could have a 200-500 people nomadic village built of hackers, with op
 * EU sellers. http://www.srx400.co.uk/buyonline/buy/celotex 20 sheets of 40mm looks to be 360 GBP+shipping.
 * Kingspan/SPU. http://www.spu-isolering.no/produkter/produkt/kingspan-therma-tr26-fr-spu-sp/ or http://www.spu-isolering.no/produkter/produkt/kingspan-therma-tp10-tf70-tw50-tw55-fr-spu-al
 * https://hipro.no/ sells PIR-sandwich materials
+[Ruukki](http://www.ruukki.com/nor/b2b/produkter/sandwichpaneler/%C3%B8vrige-paneler)
+[ArcelorMittal](http://www.armat.no/images/_downloads/Sandwichpaneler_ArcelorMittal.pdf)
 * For living in semi-permanentlu, the tall hexayurt variations are probably the way to go. H15 (6 foot sidewalls) or H18 (8 foot sidewalls).
 
 
@@ -456,3 +487,9 @@ Politics
 
 * [Housing without debt](https://medium.com/@AlastairParvin/housing-without-debt-5ae430b5606a) by WikiHouse Foundation co-founder.
 Argues for building an alternative market for houses: as homes for people - not assets for speculation.
+
+FreeCAD architecture
+
+* [FreeCAD Architecture Intro - 01](https://www.youtube.com/watch?v=F6PIEi33R1g).
+Using references for common space needs. Ie. 120cm for human standing sideways.
+
