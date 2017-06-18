@@ -220,12 +220,38 @@ Example: [Belimo EPIV](https://www.belimo.us/americas/piv.html).
 Want to minimize the height used, in order to stay within standard HC height while maximizing useful interior height. 
 
 "Bjelkelag". Tables for maximum beam length. http://bokasnettressurs.no/asset/1016/1/1016_1.pdf
-2.5 meter wide *might be* doable with 148x48mm beams.
+2.5 meter wide *might be* doable with 148x48mm beams. But 198x48 mm would be much easier strengthwise.
 These could fit onto a 200 mm steel I-beam. http://www.yamatokogyo.co.jp/steel/english/product/steel/steel01.html
+I-beam can be connected also with a couple of square-profile steel beams across. 4 total gives
+
+Refs
 
 [Byggforsk: Stålbjelker for små spenn, dimensjonering](http://byggebolig.no/imageoriginals/fb12d1568cb1bf85bf43b8309975314e690131f6.pdf?)
 
-Refs
+## Wall-roof construction
+
+Sandwiched panel modules. PIR+steel, profiled.
+
+Snow-loads for south-eastern Norway. 3 - 6kN/m2
+
+Looks quite doable to [cut with a circular saw](https://www.youtube.com/watch?v=BluG4W3dnWk).
+
+Cut the walls at the (slight) angle that the roof should have, prop the roof right on top?
+
+Open questions:
+
+* How to attach roof to walls?
+* What thickness is needed for roof? Structural strength, insulation
+* How to handle the joints between elements
+* Corners, put short ends inside the long ones.
+
+Material providers
+
+* [plastsistem](http://stab-group.com/en/products/sandw%D1%96ch-panels/plastsistem/). Incl loads
+* [lindab](http://www.lindab.com/uk/Documents/Building%20Components%20Global/sandwich_panels_technical.pdf)
+* https://hipro.no/ sells PIR-sandwich materials
+* [Ruukki](http://www.ruukki.com/nor/b2b/produkter/sandwichpaneler/%C3%B8vrige-paneler)
+* [ArcelorMittal](http://www.armat.no/images/_downloads/Sandwichpaneler_ArcelorMittal.pdf)
 
 ### Bathroom construction
 
@@ -471,9 +497,6 @@ What if we could have a 200-500 people nomadic village built of hackers, with op
 * PIR plus. polyisocr. Brand names include: 
 * EU sellers. http://www.srx400.co.uk/buyonline/buy/celotex 20 sheets of 40mm looks to be 360 GBP+shipping.
 * Kingspan/SPU. http://www.spu-isolering.no/produkter/produkt/kingspan-therma-tr26-fr-spu-sp/ or http://www.spu-isolering.no/produkter/produkt/kingspan-therma-tp10-tf70-tw50-tw55-fr-spu-al
-* https://hipro.no/ sells PIR-sandwich materials
-[Ruukki](http://www.ruukki.com/nor/b2b/produkter/sandwichpaneler/%C3%B8vrige-paneler)
-[ArcelorMittal](http://www.armat.no/images/_downloads/Sandwichpaneler_ArcelorMittal.pdf)
 * For living in semi-permanentlu, the tall hexayurt variations are probably the way to go. H15 (6 foot sidewalls) or H18 (8 foot sidewalls).
 
 
