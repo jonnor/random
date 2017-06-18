@@ -100,7 +100,23 @@ Excemptions
 
 Technical requirements
 
+* [TEK10 with guide](https://dibk.no/byggeregler/tek/), freely available. 500 pages.
+[PDF](https://dibk.no/globalassets/byggteknisk-forskrift-tek102/byggteknisk-forskrift-tek10-med-veiledning.pdf)
+* Exceptions of note. " fritidsbolig med én boenhet", "studentbolig".
+* § 12-7: Min room height 2.4m, bathroom 2.2m. Fritid1: 2.2m. From 'undergulv' (carrying part) to 'himling'.
+Recommended min 7 sqm for 'oppholdsrom'.
+* § 12-7, in accessible unit. Space to turn, 1.5m+ diam. 0.9m passageways
+* § 12-9. Bathroom, in accessible unit, min 0.9m space on sides of toilet and 1.5m+ diam turn space. **very hard** for micro
+* § 12-10. Storage. Minimum 3 m2 (1.5m2 for 1-room apartment) internally. Must be full height and separated out.
+Minimum 5 sqm (2.5sqm) externally, single room. **not fulfilled** 
+* § 12-15 Door. Outer door min free width 0.9m, internally 0.8m. Min 2.0m free height
+* [arkitektur.no TEK17 comments](https://www.arkitektur.no/tek-17), incl link to proposed document. "simplified regulations"
+* [TEK17 FAQ](https://dibk.no/byggereglene/regelverksutvikling/tek17-prosjektet/sporsmal-og-svar-om-tek17/)
 * [Insulation](https://www.byggforsk.no/dokument/3461/minstekrav). Outerwall, uvalue `< 0.18`. 120-140mm PIR
+* Maximum window area, 25% of heated inner area (BRA). Est: 5.5m*2.2m * 0.25 = 3 sqm.
+Double balcony door can take up 2 sqm.
+* Example high-insulation window, [byggmax](https://www.byggmax.no/vinduer/trevinduer/fastkarmvindu-tre-1-rams-frekhaug-hvit-p6220092).
+Est. 3k NOK/sqm
 
 ### Refs
 
@@ -198,6 +214,15 @@ This is similar sub-problem as for flow control in solar-water heater.
 Example: [Belimo EPIV](https://www.belimo.us/americas/piv.html).
 [Dynamx](http://www.marflowhydronics.co.uk/products/dynamx/overview/)
 [Distech](http://www.distech-controls.com/en/ca/products/field-devices/va-valves/related-products/pressure-independent-valve-act/)
+
+### Container-sized carriage
+
+Want to minimize the height used, in order to stay within standard HC height while maximizing useful interior height. 
+
+"Bjelkelag". Tables for maximum beam length. http://bokasnettressurs.no/asset/1016/1/1016_1.pdf
+2.5 meter wide *might be* doable with 148x48mm beams.
+These could fit onto a 200 mm steel I-beam. http://www.yamatokogyo.co.jp/steel/english/product/steel/steel01.html
+
 
 ### Bathroom construction
 
