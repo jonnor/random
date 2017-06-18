@@ -223,6 +223,9 @@ Want to minimize the height used, in order to stay within standard HC height whi
 2.5 meter wide *might be* doable with 148x48mm beams.
 These could fit onto a 200 mm steel I-beam. http://www.yamatokogyo.co.jp/steel/english/product/steel/steel01.html
 
+[Byggforsk: Stålbjelker for små spenn, dimensjonering](http://byggebolig.no/imageoriginals/fb12d1568cb1bf85bf43b8309975314e690131f6.pdf?)
+
+Refs
 
 ### Bathroom construction
 
