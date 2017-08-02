@@ -5,6 +5,9 @@ Literacy
 being able to understand, express ideas and communicate.
 rest & write
 
+Partly practical skills. How to get things done, earn a living
+Partly personal & creative expression
+
 'programming as literacy' is a tiny, secondary part of this?
 
 Communicating online

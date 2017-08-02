@@ -252,6 +252,9 @@ Material providers
 * https://hipro.no/ sells PIR-sandwich materials
 * [Ruukki](http://www.ruukki.com/nor/b2b/produkter/sandwichpaneler/%C3%B8vrige-paneler)
 * [ArcelorMittal](http://www.armat.no/images/_downloads/Sandwichpaneler_ArcelorMittal.pdf)
+* [PIRTECH (FINN.no from Poland)](https://www.finn.no/bap/webstore/ad.html?finnkode=85881494). 139 kr/m2 NOK for 40 mm.
+* [Eminar](http://emimar.no/no/sandwichpaneler/polyuretan)
+* [Balex](http://www.balex.eu/no/sandwichpaneler/type-plater)
 
 ### Bathroom construction
 
@@ -470,6 +473,7 @@ Existing microhouses
 * [Bunkie, prefab 10 sqm Canadian](http://www.thebunkie.com/)
 * [15 sqm house in New Zealand](http://www.treehugger.com/tiny-houses/living-big-in-a-tiny-house-tour-brett-sutherland-tiny-house.html)
 [video](https://www.youtube.com/watch?v=VckbqU4kK2I). Smart movable toilet.
+* [Marios Tiny house](http://mariostinyhouses.com/hus-1.html). On wheels, delivered done. 700k NOK.
 
 Container-based builds
 
@@ -479,6 +483,10 @@ Container-based builds
 * [Platoon collective house (Berlin)](https://www.flickr.com/photos/angermann/2268782521/)
 * [Echo Eco Pod](http://www.gizmag.com/echo-eco-pods/33617/pictures#33)
 * [20' off-grid](https://www.youtube.com/watch?v=2l58L3QEVnc). Nice bedroom/louge split.
+
+Related open projects
+
+* [TinyHackerHouse](https://hackaday.io/project/10635-tinyhackerhouse)
 
 Hexayourt
 
@@ -497,8 +505,7 @@ What if we could have a 200-500 people nomadic village built of hackers, with op
 * PIR plus. polyisocr. Brand names include: 
 * EU sellers. http://www.srx400.co.uk/buyonline/buy/celotex 20 sheets of 40mm looks to be 360 GBP+shipping.
 * Kingspan/SPU. http://www.spu-isolering.no/produkter/produkt/kingspan-therma-tr26-fr-spu-sp/ or http://www.spu-isolering.no/produkter/produkt/kingspan-therma-tp10-tf70-tw50-tw55-fr-spu-al
-* For living in semi-permanentlu, the tall hexayurt variations are probably the way to go. H15 (6 foot sidewalls) or H18 (8 foot sidewalls).
-
+* For living in semi-permanently, the tall hexayurt variations are probably the way to go. H15 (6 foot sidewalls) or H18 (8 foot sidewalls).
 
 Watersystem
 
