@@ -3,6 +3,34 @@ Misc. things I've read, and bothered to make notes about.
 
 Most recent entries on top.
 
+## Seeing Whole Systems
+By Nicky Case
+
+Seen: August 26, 2017
+
+[The Now Long Now Foundtion - Nicky Case - Seeing Whole Systems](http://longnow.org/seminars/02017/aug/07/seeing-whole-systems)
+
+> Maps are not useful *despite* being simplified, but *because *
+
+> Cause and effect are *not linear*:
+> A effect can be its *own cause* future in time, they have loops.
+
+*Reinforcing* loop. Positive feedback. Creates exponential growth or dramatic decay.
+*Balancing* loop. Negative feedback. Stabilizes. Creates  periodic patterns, dampened sines
+
+Systems are chaos. Example: dual-pendulum. Impossible to accurately predict. 
+> Prediction is for chumps
+
+> Are we bound to be like Sisiphous?
+> Always pushing the ball up the hill, only to have it roll down again.
+> Don't move the ball, move the hills!
+
+Done by reinforcing or strengthen loops (reinforcing or balancing).
+
+Very similar to ideas I had in Berlin/Helsinki.
+"gravity" and the environment being a/the major influencer of decisions/outcome.
+ Do I have any notes from it? What spawned me thinking about it?
+
 ## The Future of Software Engineering
 Seen: November 4, 2016
 

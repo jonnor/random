@@ -339,6 +339,23 @@ Other uses
 [Solar water disinfection](https://en.wikipedia.org/wiki/Solar_water_disinfection).
 Note: Polycarbonate (resin identification code 7) blocks all UVA and UVB rays.
 
+References
+
+* [SINTEF: Solfangere fungerer bedre enn forventet](http://www.sintef.no/siste-nytt/solfangere-fungerer-bedre-enn-forventet/)
+[SINTEF: Suksessfaktorer for økt bruk av solvarme](https://www.sintefbok.no/book/index/989), 32-page report.
+* [NMBU: Manual til laboratorieøvelse for elever, Solfanger](http://www.umb.no/statisk/energilaboratoriene/Solfanger.pdf).
+2 types of units, plus portable available in the lab.
+At As, May-Sept have 70-170 kWh/m2/month (2-5.5 daily).
+* [Enova: Stotte for solfanger tiltak](https://www.enova.no/privat/alle-energitiltak/solenergi/solfanger-/).
+20% of documented costs, up to 15k NOK and 25sqm
+* [Sondred.info: Solvarme](http://www.sondred.info/solvarme.htm). Description of 2 DIY systems in Norway.
+Using Polycarbonate channel plastic as front, wooden structure with construction insulation.
+Recommends 100liter storage per sqm of heater area.
+
+Products
+
+* [Intex solar mat](https://www.toysrus.no/produkt/intex-solmatte-til-basseng). Cheap made of black plastic
+
 Tools
 
 * Solar power meter. "Pyranometer". For measuring the irridiance of the sun. Watt/m2 or Btu
