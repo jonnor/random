@@ -3,6 +3,42 @@ Misc. things I've read, and bothered to make notes about.
 
 Most recent entries on top.
 
+## Out of the tar pit
+By Mosely & Marks
+
+[PDF](http://ben.moseley.name/frp/paper-v1_01.pdf)
+
+Read October 24, 2017
+
+Argues that state & control is cause of much accidental complexity (ref Brooks) in programs.
+Evaluates object-oriented, functional programming and logic programming against this.
+
+In 7.2.2 it argues for one case where accidental state may be preferable to deriving from inputs.
+When it depends on the whole history of inputs, and its own previous values. Like in an interactive game.
+Their rationale is that keeping current state is the more natural way to express the system. 
+
+I do agree, but would like to add that this formulation is also *less stateful*,
+in the sense that it does not have to store inputs back since the beginning of time.
+One can then know that new state must depend only on current state and inputs,
+the prior 'history' of inputs as well as initial state, is irrelevant.
+
+7.3.2 argues for separating pure logic, state and control (how execution of logic is performed).
+This is very much what I've been doing in dlock13, Rebirth, dhang, toollock, firmware.
+Maybe even as far as using a different language:
+"there is no sense in having control specification primitives in a language for state"
+
+A dedicated language for state could be a kind of schema with constraints/properties,
+allowing to *declare* what is considered a 'valid' state. And similarly for input/output data.
+It could have facilities/tools, for instance generation of data exemplars within what is valid.
+For low-level implementation languages (like C++), it may also generate validator code,
+as well as de/serialization code. It may be possible to use knowledge of valid/invalid to
+perform static checking, for instance for integer overflows.
+Such ideas came up when working on Agree.js
+
+Section 8 introduces the relational data model as a proposed solution.
+To use this as a fundamental data representation reminds a bit of of Eve.
+Section 9 introduces the concept of 'Functional Relational Programming'
+
 ## Seeing Whole Systems
 By Nicky Case
 
