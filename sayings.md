@@ -1,4 +1,9 @@
 
+Quotes
+------
+> What has been done, thought, written, or spoken is not culture;
+> culture is only that fraction which is *remembered*"
+Gary Taylor, The Clock of the Long Now
 
 Maxims
 --------

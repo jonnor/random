@@ -3,6 +3,28 @@ Misc. things I've read, and bothered to make notes about.
 
 Most recent entries on top.
 
+## Kipple Field Notes
+by Hillary Predko
+
+[Kipple Field Notes](http://www.hillarypredko.com/kipple/1-the-things-we-carry/)
+
+Making is shaping the world around us
+"over 90% of the resources taken out of the ground become waste within 3 months"
+"consumer products contains on average only 5% of the raw materials involved in the process of making and delivering it"
+
+"Innovation favours disruption, a romantic idea,
+but disruption in the lives of vulnerable people can be violence." 
+ 
+"Maker culture does not provide a critique of industrial production that holds up when examined against the reality of full scale industrial production, and the complexity of emerging manufacturing-based markets like China."
+
+"Maybe escaping the city as it is is the first step to building something new. Hundred of builders in concert, labouring out of sight, waiting to unveil a vision of a more livable city."
+
+How to compete with industrial-scale consumerism?
+How much of the benefits are fundamental?
+How much due to the scale, being the standard way.
+How much due to actively hiding negatives as externalities,
+be it on resources, people or culture?
+
 ## Out of the tar pit
 By Mosely & Marks
 
